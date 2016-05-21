@@ -43,7 +43,7 @@ The scripts have been tested on Windows 7, with python 2.7.11 (Anaconda 4.0.0)
 ## Todo
 
 * Could be simplified. 
-* 2nd script assumes that .csv file have HTML encodings in place.
+* 2nd script assumes that .csv file has HTML encodings in place.
 * Might croak if file sizes are not as expected (too few lines, etc.) 
 * The output files are brutally *overwritten* so run in empty directory only!
 
